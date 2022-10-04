@@ -1,5 +1,6 @@
 @extends('layouts.base')
 
+@section('name', 'Rabson')
 
 @section('content')
 
